@@ -2,4 +2,3 @@ problem -1
 enter the array and see if the index have the target no.
 1
 2
-3
